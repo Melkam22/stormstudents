@@ -12,3 +12,9 @@ main {
 li {
     margin-bottom: 5px;
 }
+
+@media screen (max-width: 375px){
+    .one{
+        border: 5px solid red;
+    }
+}
